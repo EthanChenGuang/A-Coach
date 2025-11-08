@@ -1,0 +1,18 @@
+[
+  {
+    "session_id": "1efbe546-6b87-4cf9-984a-281b145bc830",
+    "transcript_path": "/home/guang/.claude/projects/-home-guang-Projects-Vibe-Coding-A-Coach/1efbe546-6b87-4cf9-984a-281b145bc830.jsonl",
+    "cwd": "/home/guang/Projects/Vibe-Coding/A-Coach",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "1efbe546-6b87-4cf9-984a-281b145bc830",
+    "transcript_path": "/home/guang/.claude/projects/-home-guang-Projects-Vibe-Coding-A-Coach/1efbe546-6b87-4cf9-984a-281b145bc830.jsonl",
+    "cwd": "/home/guang/Projects/Vibe-Coding/A-Coach",
+    "permission_mode": "default",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  }
+]
