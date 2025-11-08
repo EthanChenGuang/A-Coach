@@ -1,0 +1,9 @@
+[
+  {
+    "session_id": "1efbe546-6b87-4cf9-984a-281b145bc830",
+    "transcript_path": "/home/guang/.claude/projects/-home-guang-Projects-Vibe-Coding-A-Coach/1efbe546-6b87-4cf9-984a-281b145bc830.jsonl",
+    "cwd": "/home/guang/Projects/Vibe-Coding/A-Coach",
+    "hook_event_name": "SessionStart",
+    "source": "startup"
+  }
+]
